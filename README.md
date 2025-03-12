@@ -1,3 +1,5 @@
+# Fraction
+
 # Expense Management App
 
 Tired of those awkward money moments with friends? 😬 Say hello to the future of managing shared expenses! 🚀 With our super **user-friendly** web app, splitting bills has never been easier. No more scrambling for calculations or chasing friends for money—everything is seamless, fast, and effortless. 💸✨
@@ -30,42 +32,10 @@ Tired of those awkward money moments with friends? 😬 Say hello to the future 
 4. **Track & Manage**  
    - Keep track of who owes what with ease!
 
-## Getting Started
+## Access the Web App
 
-To get started with the app, follow these steps:
+Ready to experience the easiest way to manage shared expenses? [Click here to access the app!](https://sudharshanakshay.github.io/fractionweb/) 🥳
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-repository-url
-    ```
-2. Install dependencies:
-    ```bash
-    flutter pub get
-    ```
-3. Run the app:
-    ```bash
-    flutter run
-    ```
-
-## Open-Source
-
-This project is open-source! We welcome contributions and improvements. Feel free to fork the repository, submit pull requests, and help us grow the app. You can find the project on [GitHub](https://github.com/your-repository-url).
-
-## Contributing
-
-If you'd like to contribute to the development of this app, please follow the standard GitHub workflow:
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
-
 With our app, you can focus on what truly matters—making memories, not calculations! 🎉
-
-Ready to experience the easiest way to manage shared expenses? Start using our app now and make splitting bills a breeze! 🥳
